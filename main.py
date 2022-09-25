@@ -1,5 +1,5 @@
 from calendar import week
-from msilib.schema import PublishComponent
+#from msilib.schema import PublishComponent
 import random
 from time import localtime
 from requests import get, post
